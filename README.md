@@ -1,6 +1,6 @@
 # Description
 
-This is a simple iOS 7 style switch component for Angular2.
+This is a simple iOS 7 style switch component for Angular2
 
 ![alt](logo.png)
 
